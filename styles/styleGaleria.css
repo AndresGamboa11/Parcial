@@ -11,7 +11,7 @@ main{
     align-items: center;
     padding: 20px;
     background: linear-gradient(to bottom, #2088c3, #8ac3e1);
-    padding-bottom: 0px;
+    padding-bottom: 0;
     box-sizing: border-box;
 }
 header{
